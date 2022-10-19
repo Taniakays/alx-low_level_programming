@@ -1,9 +1,9 @@
 #include "main.h"
-#include <unistad.h>
+#include <unistd.h>
 
 /**
  * _putchar - writes the character c to standard output
- *
+ * @c:the character to print
  * Return: On success 1
  *
  */
