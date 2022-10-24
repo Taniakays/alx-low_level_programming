@@ -1,8 +1,8 @@
-#include <main.h>
+#include "main.h"
 
 /**
- * reset_to_98 - update the value of n to 98
- * @n: the input
+ * reset_to_98- update the value on n to 98
+ * @n: input
  * Return: n
  */
 
