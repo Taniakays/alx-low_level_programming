@@ -3,10 +3,11 @@
 /**
  * rev_string - reverses a string
  * @s: char to check
+ * _putchar - print each character
  * Return: 0
  */
 
-void rev_string(char *s);
+void rev_string(char *s)
 {
 	int a = 0, b, c;
 	char d;
